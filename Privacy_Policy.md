@@ -1,9 +1,9 @@
 
 # Privacy Policy for Misinformation Matrix
 
-**Last updated: [Current Date]**
+**Last updated: [28 February 2024]**
 
-Welcome to Misinformation Matrix (the "Service"), accessible from [Your Service URL]. Your privacy is critically important to us, and this Privacy Policy document outlines the types of personal information that is collected and recorded by Misinformation Matrix and how we use it.
+Welcome to Misinformation Matrix (the "Service"), accessible from [https://github.com/texaschikkita/MisinformationMatrix/edit/main/Privacy_Policy.md]. Your privacy is critically important to us, and this Privacy Policy document outlines the types of personal information that is collected and recorded by Misinformation Matrix and how we use it.
 
 ## General Data Protection Regulation (GDPR)
 
